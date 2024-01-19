@@ -1,5 +1,8 @@
 import Link from "next/link";
 
+// Components
+import InputSearch from "./InputSearch";
+
 const Index = () => {
   return (
     <header className="bg-indigo-500">
@@ -7,7 +10,7 @@ const Index = () => {
         <Link href="/" className="font-bold text-white text-2xl">
           AniList
         </Link>
-        <input placeholder="Search anime.." className="" />
+        <InputSearch />
       </div>
     </header>
   );
