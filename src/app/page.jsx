@@ -15,11 +15,6 @@ const Page = async () => {
         <Header title="Most Popular" linkTitle="See More" linkHref="/popular" />
         <AnimeList api={topAnime} />
       </section>
-      {/* Latest Anime */}
-      <section>
-        <Header title="Latest Anime" linkTitle="See More" linkHref="/new" />
-        <AnimeList api={topAnime} />
-      </section>
     </>
   );
 };
