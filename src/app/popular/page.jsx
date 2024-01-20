@@ -8,7 +8,7 @@ import Pagination from "@/components/Utilities/Pagination";
 import AnimeList from "@/components/AnimeList";
 
 // API
-import { getAnimeResponse } from "../libs/api-libs";
+import { getAnimeResponse } from "@/libs/api-libs";
 
 const Page = () => {
   const [page, setPage] = useState(1);
