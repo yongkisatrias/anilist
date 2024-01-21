@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 // API
-import { getAnimeResponse } from "@/app/libs/api-libs";
+import { getAnimeResponse } from "@/libs/api-libs";
 
 // Components
 import VideoPlayer from "@/components/Utilities/Video.Player";
