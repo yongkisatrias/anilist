@@ -2,6 +2,7 @@ import Link from "next/link";
 
 // Components
 import InputSearch from "./InputSearch";
+import UserActionButton from "./UserActionButton";
 
 const Index = () => {
   return (
@@ -11,6 +12,7 @@ const Index = () => {
           AniList
         </Link>
         <InputSearch />
+        <UserActionButton />
       </div>
     </header>
   );
