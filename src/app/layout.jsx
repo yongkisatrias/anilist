@@ -3,6 +3,7 @@ import "./globals.css";
 
 // Components
 import Navbar from "@/components/NavBar";
+import Footer from "@/components/Footer";
 
 const gabarito = Gabarito({ subsets: ["latin"] });
 
@@ -20,6 +21,7 @@ export default function RootLayout({ children }) {
       >
         <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );

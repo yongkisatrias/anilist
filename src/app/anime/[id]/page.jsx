@@ -20,7 +20,7 @@ const Page = async ({ params: { id } }) => {
   });
 
   return (
-    <>
+    <div className="md:py-4 md:px-10 p-0 min-h-screen">
       <div className="pt-4 px-4">
         <h3 className="text-color-primary text-2xl">
           {anime.data.title} - {anime.data.year}
@@ -77,7 +77,7 @@ const Page = async ({ params: { id } }) => {
       <div>
         <VideoPlayer youtubeId={anime.data.trailer.youtube_id} />
       </div>
-    </>
+    </div>
   );
 };
 

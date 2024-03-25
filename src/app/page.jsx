@@ -20,12 +20,12 @@ const Page = async () => {
   return (
     <>
       {/* Popular Anime */}
-      <section>
+      <section className="md:py-4 md:px-10 p-0">
         <Header title="Most Popular" linkTitle="See More" linkHref="/popular" />
         <AnimeList api={topAnime} />
       </section>
       {/* Recommendation */}
-      <section>
+      <section className="md:py-4 md:px-10 p-0">
         <Header title="Recommendation" />
         <AnimeList api={recommendedAnime} />
       </section>
