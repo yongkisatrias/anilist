@@ -13,7 +13,7 @@ const Page = async ({ params }) => {
 
   return (
     <>
-      <section>
+      <section className="md:py-4 md:px-10 p-0">
         <Header title={`Search for ${decodedKeyword}..`} />
         <AnimeList api={searchAnime} />
       </section>

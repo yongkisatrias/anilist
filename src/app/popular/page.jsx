@@ -24,7 +24,7 @@ const Page = () => {
   }, [page]);
 
   return (
-    <>
+    <div className="md:py-4 md:px-10 p-0">
       <HeaderMenu title={`Most Popular Anime #${page}`} />
       <AnimeList api={topAnime} />
       <Pagination
@@ -32,7 +32,7 @@ const Page = () => {
         lastPage={topAnime.pagination?.last_visible_page}
         setPage={setPage}
       />
-    </>
+    </div>
   );
 };
 
