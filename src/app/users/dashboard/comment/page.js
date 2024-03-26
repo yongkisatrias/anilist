@@ -15,7 +15,7 @@ const Page = async () => {
   });
 
   return (
-    <section className="mt-4 px-4 w-full">
+    <section className="mt-4 px-4 w-full min-h-screen">
       <Header title={"My Collection"} />
       <div className="grid grid-cols-1 py-2 gap-4">
         {comments.map((comment) => {
