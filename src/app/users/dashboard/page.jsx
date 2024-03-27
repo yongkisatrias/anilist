@@ -8,7 +8,7 @@ const Page = async () => {
   const user = await authUserSession();
 
   return (
-    <div className="mt-8 text-color-primary flex flex-col justify-center items-center min-h-screen">
+    <div className="mt-8 text-color-primary flex flex-col justify-center items-center min-h-screen md:py-4 md:px-10 p-0">
       <h5 className="text-2xl font-bold mb-2">Welcome, {user?.name}</h5>
       <Image src={user?.image} alt="profile picture" width={250} height={250} />
       <div className="py-8 flex flex-wrap gap-4">
