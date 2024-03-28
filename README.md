@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/yongkisatrias/anilist">
-    <img src="https://i.ibb.co/ykJB7xX/Screenshot-2024-03-25-154122.png" alt="Anilist" border="0" style="width: 300">
+    <img src="https://i.ibb.co/ykJB7xX/Screenshot-2024-03-25-154122.png" alt="Screenshot-2024-03-25-154122" border="0">
 </a>
 </div>
 
