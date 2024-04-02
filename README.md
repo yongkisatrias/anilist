@@ -36,8 +36,7 @@ Welcome to AniList, the ultimate destination for anime enthusiasts worldwide. Bu
 
 - [**Next 14.0.1**](https://nextjs.org/docs/getting-started/installation)
 - [**React 18.2.0**](https://react.dev/learn/start-a-new-react-project)
-- [**React DOM 18.2.0**](https://www.npmjs.com/package/react-dom)
-- [**react-youtube 10.1.0**](https://www.npmjs.com/package/react-youtube)
+- [**React Youtube 10.1.0**](https://www.npmjs.com/package/react-youtube)
 - [**NextAuth 4.24.5**](https://next-auth.js.org/getting-started/example)
 - [**Prisma 5.8.1**](https://www.prisma.io/docs/getting-started)
 - [**Tailwind CSS 3.3.0**](https://tailwindcss.com/docs/installation)
