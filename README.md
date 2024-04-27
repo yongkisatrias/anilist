@@ -22,15 +22,15 @@ Welcome to AniList, the ultimate destination for anime enthusiasts worldwide. Bu
 
 ### Feature
 
-- Most Popular Anime: Explore the list of the most beloved and trending anime, regularly updated to ensure you stay connected with the latest and greatest from the world of anime.
+- Most Popular Anime: Explore the list of the most beloved and trending anime in the world.
 
-- Anime Recommendations: AniList provides anime recommendations and discover new anime titles you may not have encountered before, but are sure to pique your interest.
+- Anime Recommendations: AniList provides anime recommendations and helps you discover new anime titles you may not have encountered before.
 
-- Sign In: Join the AniList community easily by creating your own account. Logging in grants access to exclusive features such as marking your favorite anime, creating a personal watchlist, and participating in discussions in comment column.
+- Sign In: Join the AniList community easily by creating your own account. Logging in grants access to exclusive features such as marking your favorite anime, creating a personal watchlist, and participating in discussions in the comment section.
 
-- Commenting and Sharing Opinions: Express your thoughts on your favorite anime by commenting directly on the anime list page. Discuss plots, characters, and favorite moments with an enthusiastic and engaged community.
+- Comment: Express your thoughts on your favorite anime by commenting directly on the anime list page.
 
-- User Profiles: view your watch list collection and also see your comments on each anime.
+- User Profiles: View your watchlist collection and also see your comments on each anime.
 
 ## Built with
 
